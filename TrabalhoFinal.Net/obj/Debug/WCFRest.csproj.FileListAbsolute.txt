@@ -4,3 +4,9 @@ C:\Users\User\source\repos\TrabalhoFinal.Net\TrabalhoFinal.Net\bin\TrabalhoFinal
 C:\Users\User\source\repos\TrabalhoFinal.Net\TrabalhoFinal.Net\obj\Debug\WCFRest.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\TrabalhoFinal.Net\TrabalhoFinal.Net\obj\Debug\TrabalhoFinal.Net.dll
 C:\Users\User\source\repos\TrabalhoFinal.Net\TrabalhoFinal.Net\obj\Debug\TrabalhoFinal.Net.pdb
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\TrabalhoFinal.Net\bin\TrabalhoFinal.Net.dll.config
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\TrabalhoFinal.Net\bin\TrabalhoFinal.Net.dll
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\TrabalhoFinal.Net\bin\TrabalhoFinal.Net.pdb
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\TrabalhoFinal.Net\obj\Debug\WCFRest.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\TrabalhoFinal.Net\obj\Debug\TrabalhoFinal.Net.dll
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\TrabalhoFinal.Net\obj\Debug\TrabalhoFinal.Net.pdb

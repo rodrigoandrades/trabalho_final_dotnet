@@ -13,6 +13,6 @@ namespace TrabalhoFinal.Net
     {
 
         [OperationContract]
-        string GetMessage(string message);
+        void SendMessage(string message);
     }
 }
