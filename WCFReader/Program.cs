@@ -7,7 +7,6 @@ namespace WCFReader
     {
         static void Main(string[] args)
         {
-            //SELF-HOST (repare que não estou utilizando o IIS)
             using (var host = new ServiceHost(typeof(NotificationInboundMessageHandlerService)))
             {
                 host.Faulted += Faulted;
@@ -24,7 +23,7 @@ namespace WCFReader
                     {
                         host.Abort();
                     }
-                   // host.Close();
+                    host.Close();
                 }
             }
         }
@@ -32,7 +31,6 @@ namespace WCFReader
         static void Faulted(object sender, EventArgs e)
         {
             Console.WriteLine("Problema no WCF");
-            Console.WriteLine(e.ToString());
         }
     }
 }

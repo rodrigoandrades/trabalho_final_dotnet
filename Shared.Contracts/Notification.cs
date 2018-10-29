@@ -3,9 +3,6 @@ using System.Runtime.Serialization;
 
 namespace Shared.Contracts
 {
-    /// <summary>
-    /// Classe que será enviada para o MSMQ
-    /// </summary>
     [DataContract]
     public class Notification
     {

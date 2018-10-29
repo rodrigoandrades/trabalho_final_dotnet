@@ -5,6 +5,7 @@ using System.ServiceModel.MsmqIntegration;
 namespace Interfaces
 {
     [ServiceContract]
+    [ServiceKnownType(typeof(Notification))]
     public interface IInboundMessageHandlerService
     {
         [OperationContract(IsOneWay = true, Action = "*")]

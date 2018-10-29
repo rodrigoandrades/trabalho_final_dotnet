@@ -15,10 +15,13 @@ namespace WCFRest
                 // Criando uma msg
                 var notification = new Notification { Mensagem = message, Data = DateTime.Now };
 
+                Message msg = new Message();
+                msg.Body = notification;
+
                 // Criando uma transação
                 using (var ts = new TransactionScope(TransactionScopeOption.Required))
                 {
-                    queue.Send(notification, MessageQueueTransactionType.Automatic);
+                    queue.Send(msg, MessageQueueTransactionType.Automatic);
                     ts.Complete();
                 }
             }

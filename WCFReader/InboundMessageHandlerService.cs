@@ -6,18 +6,17 @@ using Shared.Contracts;
 
 namespace WCFReader
 {
-    //SINGLE -> INSTANCIA UNICA e Sigle-Thread
     [ServiceBehavior(ConcurrencyMode = ConcurrencyMode.Single, InstanceContextMode = InstanceContextMode.Single, ReleaseServiceInstanceOnTransactionComplete = false)]
     public class NotificationInboundMessageHandlerService : IInboundMessageHandlerService
     {
         [OperationBehavior(TransactionScopeRequired = true, TransactionAutoComplete = true)]
         public void ProcessIncomingMessage(MsmqMessage<Notification> incomingMessage)
         {
-            //var notification = incomingMessage.Body;
-
+            Notification notification = incomingMessage.Body;
             Console.WriteLine("------------------------------------ mensagem recebida ---------------------------------------");
-            //Console.WriteLine(notification.Mensagem);
-            //Console.WriteLine();
+            Console.WriteLine(notification.Data);
+            Console.WriteLine(notification.Mensagem);
+            Console.WriteLine();
         }
     }
 }
