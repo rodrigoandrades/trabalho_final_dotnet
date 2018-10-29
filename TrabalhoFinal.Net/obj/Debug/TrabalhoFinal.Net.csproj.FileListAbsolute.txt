@@ -1,7 +1,0 @@
-C:\Users\User\source\repos\TrabalhoFinal.Net\TrabalhoFinal.Net\bin\TrabalhoFinal.Net.dll.config
-C:\Users\User\source\repos\TrabalhoFinal.Net\TrabalhoFinal.Net\bin\TrabalhoFinal.Net.dll
-C:\Users\User\source\repos\TrabalhoFinal.Net\TrabalhoFinal.Net\bin\TrabalhoFinal.Net.pdb
-C:\Users\User\source\repos\TrabalhoFinal.Net\TrabalhoFinal.Net\obj\Debug\TrabalhoFinal.Net.csprojAssemblyReference.cache
-C:\Users\User\source\repos\TrabalhoFinal.Net\TrabalhoFinal.Net\obj\Debug\TrabalhoFinal.Net.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\TrabalhoFinal.Net\TrabalhoFinal.Net\obj\Debug\TrabalhoFinal.Net.dll
-C:\Users\User\source\repos\TrabalhoFinal.Net\TrabalhoFinal.Net\obj\Debug\TrabalhoFinal.Net.pdb

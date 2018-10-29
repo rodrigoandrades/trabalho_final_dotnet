@@ -1,11 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.Serialization;
 using System.ServiceModel;
 using System.ServiceModel.MsmqIntegration;
-using System.Text;
 using Interfaces;
+using Shared.Contracts;
 
 namespace WCFReader
 {
@@ -14,13 +11,13 @@ namespace WCFReader
     public class NotificationInboundMessageHandlerService : IInboundMessageHandlerService
     {
         [OperationBehavior(TransactionScopeRequired = true, TransactionAutoComplete = true)]
-        public void ProcessIncomingMessage(MsmqMessage<String> incomingOrderMessage)
+        public void ProcessIncomingMessage(MsmqMessage<Notification> incomingMessage)
         {
-            var orderRequest = incomingOrderMessage.Body;
+            //var notification = incomingMessage.Body;
 
             Console.WriteLine("------------------------------------ mensagem recebida ---------------------------------------");
-            Console.WriteLine(orderRequest);
-            Console.WriteLine();
+            //Console.WriteLine(notification.Mensagem);
+            //Console.WriteLine();
         }
     }
 }

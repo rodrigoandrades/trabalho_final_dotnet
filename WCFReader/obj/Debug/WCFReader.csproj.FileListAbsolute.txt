@@ -1,7 +1,10 @@
-C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFReader\bin\Debug\WCFReader.dll.config
-C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFReader\bin\Debug\WCFReader.dll
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFReader\bin\Debug\WCFReader.exe.config
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFReader\bin\Debug\WCFReader.exe
 C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFReader\bin\Debug\WCFReader.pdb
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFReader\bin\Debug\Shared.Contracts.dll
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFReader\bin\Debug\Shared.Contracts.pdb
 C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFReader\obj\Debug\WCFReader.csprojAssemblyReference.cache
 C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFReader\obj\Debug\WCFReader.csproj.CoreCompileInputs.cache
-C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFReader\obj\Debug\WCFReader.dll
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFReader\obj\Debug\WCFReader.csproj.CopyComplete
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFReader\obj\Debug\WCFReader.exe
 C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFReader\obj\Debug\WCFReader.pdb
