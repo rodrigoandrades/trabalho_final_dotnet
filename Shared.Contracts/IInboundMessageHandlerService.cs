@@ -5,10 +5,10 @@ using System.ServiceModel.MsmqIntegration;
 namespace Interfaces
 {
     [ServiceContract]
-    [ServiceKnownType(typeof(Notification))]
+    [ServiceKnownType(typeof(NotificationMessage))]
     public interface IInboundMessageHandlerService
     {
         [OperationContract(IsOneWay = true, Action = "*")]
-        void ProcessIncomingMessage(MsmqMessage<Notification> incomingMessage);
+        void ProcessIncomingMessage(MsmqMessage<NotificationMessage> incomingMessage);
     }
 }

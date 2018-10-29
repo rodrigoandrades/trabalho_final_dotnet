@@ -13,7 +13,7 @@ namespace WCFRest
             using (var queue = new MessageQueue(ConfigurationManager.AppSettings["MessageQueuePath"]))
             {
                 // Criando uma msg
-                var notification = new Notification { Mensagem = message, Data = DateTime.Now };
+                var notification = new NotificationMessage { Mensagem = message, Data = DateTime.Now };
 
                 Message msg = new Message();
                 msg.Body = notification;

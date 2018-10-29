@@ -10,13 +10,26 @@ namespace WCFReader
     public class NotificationInboundMessageHandlerService : IInboundMessageHandlerService
     {
         [OperationBehavior(TransactionScopeRequired = true, TransactionAutoComplete = true)]
-        public void ProcessIncomingMessage(MsmqMessage<Notification> incomingMessage)
+        public void ProcessIncomingMessage(MsmqMessage<NotificationMessage> incomingMessage)
         {
-            Notification notification = incomingMessage.Body;
+            NotificationMessage notificationMessage = incomingMessage.Body;
             Console.WriteLine("------------------------------------ mensagem recebida ---------------------------------------");
-            Console.WriteLine(notification.Data);
-            Console.WriteLine(notification.Mensagem);
+            Console.WriteLine(notificationMessage.Data);
+            Console.WriteLine(notificationMessage.Mensagem);
             Console.WriteLine();
+
+            var notification = new Notification
+            {
+                data = notificationMessage.Data,
+                mensagem = notificationMessage.Mensagem
+            };
+
+            using (var db = new DbModel())
+            {
+                db.Notifications.Add(notification);
+                db.SaveChanges();
+            }
+            Console.WriteLine("mensagem inserida no banco de dados");
         }
     }
 }

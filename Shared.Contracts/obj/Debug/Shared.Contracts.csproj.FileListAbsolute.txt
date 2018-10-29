@@ -8,4 +8,3 @@ C:\Users\IEUser\Downloads\trabalho_final_dotnet\Shared.Contracts\bin\Debug\Share
 C:\Users\IEUser\Downloads\trabalho_final_dotnet\Shared.Contracts\bin\Debug\Shared.Contracts.pdb
 C:\Users\IEUser\Downloads\trabalho_final_dotnet\Shared.Contracts\obj\Debug\Shared.Contracts.dll
 C:\Users\IEUser\Downloads\trabalho_final_dotnet\Shared.Contracts\obj\Debug\Shared.Contracts.pdb
-C:\Users\IEUser\Downloads\trabalho_final_dotnet\Shared.Contracts\obj\Debug\Shared.Contracts.csprojAssemblyReference.cache

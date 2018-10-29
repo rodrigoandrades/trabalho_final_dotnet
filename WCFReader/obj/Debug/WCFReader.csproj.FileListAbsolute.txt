@@ -8,3 +8,10 @@ C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFReader\bin\Debug\Shared.Contr
 C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFReader\obj\Debug\WCFReader.csproj.CopyComplete
 C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFReader\obj\Debug\WCFReader.exe
 C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFReader\obj\Debug\WCFReader.pdb
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFReader\bin\Debug\App_Data\db.mdf
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFReader\bin\Debug\db.mdf
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFReader\bin\Debug\db_log.ldf
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFReader\bin\Debug\EntityFramework.dll
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFReader\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFReader\bin\Debug\EntityFramework.xml
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFReader\bin\Debug\EntityFramework.SqlServer.xml
