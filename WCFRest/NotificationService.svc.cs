@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Configuration;
 using System.Messaging;
+using System.ServiceModel;
+using System.ServiceModel.Web;
 using System.Transactions;
 using Shared.Contracts;
 
