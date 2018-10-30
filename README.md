@@ -2,6 +2,6 @@
 
 
 ### Grupo
-Bruno Ferreira
-Diego Menezes
-Rodrigo Andrades
+ * Bruno Ferreira
+ * Diego Menezes
+ * Rodrigo Andrades
