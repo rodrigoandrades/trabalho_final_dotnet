@@ -1,0 +1,10 @@
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WebServiceClient\bin\WebServiceClient.dll.config
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WebServiceClient\bin\WebServiceClient.dll
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WebServiceClient\bin\WebServiceClient.pdb
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WebServiceClient\bin\RestSharp.dll
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WebServiceClient\bin\RestSharp.xml
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WebServiceClient\obj\Release\WebServiceClient.csprojAssemblyReference.cache
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WebServiceClient\obj\Release\WebServiceClient.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WebServiceClient\obj\Release\WebServiceClient.csproj.CopyComplete
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WebServiceClient\obj\Release\WebServiceClient.dll
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WebServiceClient\obj\Release\WebServiceClient.pdb

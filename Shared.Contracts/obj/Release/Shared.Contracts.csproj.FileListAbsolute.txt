@@ -1,0 +1,6 @@
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\Shared.Contracts\bin\Release\Shared.Contracts.dll
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\Shared.Contracts\bin\Release\Shared.Contracts.pdb
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\Shared.Contracts\obj\Release\Shared.Contracts.csprojAssemblyReference.cache
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\Shared.Contracts\obj\Release\Shared.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\Shared.Contracts\obj\Release\Shared.Contracts.dll
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\Shared.Contracts\obj\Release\Shared.Contracts.pdb

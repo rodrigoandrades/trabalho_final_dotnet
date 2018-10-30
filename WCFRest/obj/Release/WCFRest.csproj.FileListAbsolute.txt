@@ -1,0 +1,13 @@
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFRest\bin\WCFRest.dll.config
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFRest\bin\WCFRest.dll
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFRest\bin\WCFRest.pdb
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFRest\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFRest\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFRest\bin\Shared.Contracts.dll
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFRest\bin\Shared.Contracts.pdb
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFRest\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFRest\obj\Release\WCFRest.csprojAssemblyReference.cache
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFRest\obj\Release\WCFRest.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFRest\obj\Release\WCFRest.csproj.CopyComplete
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFRest\obj\Release\WCFRest.dll
+C:\Users\IEUser\Downloads\trabalho_final_dotnet\WCFRest\obj\Release\WCFRest.pdb

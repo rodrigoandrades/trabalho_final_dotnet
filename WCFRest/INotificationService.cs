@@ -13,7 +13,7 @@ namespace WCFRest
     {
 
         [OperationContract]
-        [WebGet(UriTemplate = "SendMessage?message={message}")]
+        [WebInvoke(UriTemplate = "SendMessage?message={message}", Method = "POST")]
         void SendMessage(string message);
     }
 }
